@@ -1,0 +1,3 @@
+[submodule "graphql-prisma"]
+	path = graphql-prisma
+	url = https://git.heroku.com/frozen-forest-17266.git
